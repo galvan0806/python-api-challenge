@@ -25,3 +25,11 @@ The r-value of -0.147 suggests that there is a minimal negative correlation betw
 
 ## VacationPy
 The second task, utilizes the data from the first sub_cahallenge as a CSV. The challange locates hotels using the a Geoapify API for Cities to plan a vacation!
+
+## Resources 
+Module 3-6
+
+## Additional sources used for this challenge:
+https://www.w3schools.com/
+https://pandas.pydata.org/
+https://matplotlib.org/3.1.1/index.html
